@@ -5,7 +5,7 @@
 void quick_sort(int arr[], int left, int right);
 
 int main() {
-  int numbers[] = { 61, 109, 149, 111, 34, 2, 24, 119, 122, 125, 27, 145 };
+  int numbers[] = { 2, 5, 4, 1, 3, 2 };
   int size = sizeof(numbers) / sizeof(numbers[0]);
 
   printf("Before sorting:\n");

@@ -5,7 +5,7 @@
 void shell_sort(int numbers[], size);
 
 int main() {
-  int numbers[] = { 61, 109, 149, 111, 34, 2, 24, 119, 122, 125, 27, 145 };
+  int numbers[] = { 6, 10, 14, 1 };
   int size = sizeof(numbers) / sizeof(numbers[0]);
 
   printf("Before sorting:\n");

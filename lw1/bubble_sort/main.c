@@ -5,7 +5,7 @@
 void bubble_sort(int numbers[], size);
 
 int main() {
-  int numbers[] = { 5, 4, 3, 2, 1 };
+  int numbers[] = { 2, 3, 31, 312, 31, 4, 50, 10, 8, 39, 11, 48, 839, 384 };
   int size = sizeof(numbers) / sizeof(numbers[0]);
 
   printf("Before sorting:\n");
